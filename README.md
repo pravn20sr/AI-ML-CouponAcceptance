@@ -1,6 +1,6 @@
 ## **Will the Customer Accept the Coupon?**
 
-**Jupyter Notebook with code, experimentation, further insights here**
+**Jupyter Notebook with code, experimentation, further insights: [here](https://github.com/pravn20sr/AI-ML-CouponAcceptance/blob/master/AcceptanceCoupon.ipynb)**
 
 
 ### **Goal**
